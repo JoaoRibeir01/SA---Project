@@ -1,1 +1,1 @@
-# SA---Project
+# Project developed in the curriculum unit Sensors & Actuators where we developed a door control with a magnetic card, using Arduino Uno as a controller. We sutdied the main costs of implementation as a possible praticable circuit. 
